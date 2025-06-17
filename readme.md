@@ -28,9 +28,9 @@ Este painel interativo foi construído com Python + Streamlit para:
 
 | Subdomínio             | Descrição             | Rodando em              |
 | ---------------------- | --------------------- | ----------------------- |
-| `dash.collos.com.br`   | Painel do VPS         | Streamlit na porta 8504 |
-| `contag.collos.com.br` | Collos Fiscal         | Fora do Docker          |
-| `camara.collos.com.br` | Câmara de Compensação | Fora do Docker          |
+| `nonono.collos.com.br`   | Painel do VPS         | Streamlit na porta 8504 |
+| `nonono.collos.com.br` | Collos Fiscal         | Fora do Docker          |
+| `nonono.collos.com.br` | Câmara de Compensação | Fora do Docker          |
 
 ---
 
