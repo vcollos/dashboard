@@ -1,0 +1,4 @@
+/.env
+/dashboard.log
+/relatorio_vps.json
+/venv
